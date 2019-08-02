@@ -222,7 +222,6 @@ kitchen verify $PLATFORM && kitchen destroy $PLATFORM
 ```
 
 
-
 ## Dependencies
 
 none
